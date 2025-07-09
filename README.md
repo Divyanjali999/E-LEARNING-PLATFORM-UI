@@ -23,3 +23,8 @@ The color palette is calming and education-focused—featuring green accents for
 
 Conclusion:
 This task showcases the ability to design a multi-page, interactive user interface suitable for an online learning platform. It demonstrates practical frontend development skills in structuring responsive layouts, styling with CSS, embedding videos, and simulating progress tracking using semantic HTML components. The project is scalable, maintainable, and ready for future backend integration, fulfilling the deliverable of a styled and interactive learning interface.
+
+*OUTPUT*
+<img width="1919" height="975" alt="Image" src="https://github.com/user-attachments/assets/07525c9c-e356-4e2b-8b40-b56a09339336" />
+<img width="1919" height="966" alt="Image" src="https://github.com/user-attachments/assets/fcf35742-8be7-49d3-863f-8d4aac9d42e6" />
+<img width="1919" height="963" alt="Image" src="https://github.com/user-attachments/assets/3849cd70-8e84-4d48-ac92-8c27de7f0e08" />
